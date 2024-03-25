@@ -23,3 +23,5 @@ El estudiante conocerá las bases teóricas de los problemas de optimización, h
 
 ## Bibliografía
 
+- Gendreau, M., & Potvin, J. Y. (Eds.). (2010). Handbook of metaheuristics (Vol. 2, p. 9). New York: Springer.
+- Yang, X. S. (2010). Nature-inspired metaheuristic algorithms. Luniver press.
