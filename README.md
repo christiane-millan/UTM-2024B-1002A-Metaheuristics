@@ -1,4 +1,4 @@
-# Metaheruísticas
+# Metaheurísticas
 
 Universidad Tecnológica de la Mixteca
 
@@ -10,11 +10,16 @@ El estudiante conocerá las bases teóricas de los problemas de optimización, h
 
 ## Contenido
 
-* [Recocido simulado]()
-* Búsqueda Tabú
+* [Introducción](./L01-intro/README.md)
+* [Problemas de optimización]()
+* [Recocido simulado](./L03-simulated-anealing/README.md)
+* [Búsqueda Tabú](./L03-simulated-anealing/README.md)
 * Algoritmos Genéticos
 * Optimización por Colonia de Hormigas
 
 ## Recursos
 
 * [Problemas ACO](https://github.com/2022B-UTC-IC-Metaheuristics)
+
+## Bibliografía
+
