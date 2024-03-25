@@ -11,7 +11,7 @@ El estudiante conocerá las bases teóricas de los problemas de optimización, h
 ## Contenido
 
 * [Introducción](./L01-intro/README.md)
-* [Problemas de optimización]()
+* [Problemas de optimización](./L02-cop/README.md)
 * [Recocido simulado](./L03-simulated-anealing/README.md)
 * [Búsqueda Tabú](./L03-simulated-anealing/README.md)
 * Algoritmos Genéticos
