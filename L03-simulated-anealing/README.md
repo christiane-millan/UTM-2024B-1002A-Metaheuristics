@@ -97,6 +97,18 @@ La temperatura puede ser actualizada de dos maneras diferentes:
 
 [`Funciones de enfriamiento`](./code/function_cooling.ipynb)
 
+### Condición de parada
+
+El siguiente criterio de parada puede ser usado:
+- Por tiempo de ejecución.
+- Por número de llamadas a la función objetivo.
+- Número de iteraciones
+
+- Alcanzar una temperatura final $T_f$ es el criterio de parada más popular. Esta temperatura debe ser baja (ejemplo, $T_f = 0.01$). 
+- Lograr un determinado número de iteraciones sin mejorar la mejor solución. 
+- Lograr un número predeterminado de veces  que se acepte un porcentaje de vecinos a cada temperatura; esto es, un contador disminuye por cada vez que una temperatura es completada con el menor porcentaje de movimientos aceptados que un limite predeterminado y es reiniciado a cero cuando una nueva solución es encontrada. Por lo que el contador alcanza un limite predeterminado $R$, el algoritmo SA es detenido. 
+
+
 ## Ejemplo básico de aplicación
 
 * [`SA - Función cúbica`](./code/sannealing_basic/sa_cubic_fuction.ipynb)
