@@ -13,7 +13,7 @@ El estudiante conocerá las bases teóricas de los problemas de optimización, h
 * [Introducción](./L01-intro/README.md)
 * [Problemas de optimización](./L02-cop/README.md)
 * [Recocido simulado](./L03-simulated-anealing/README.md)
-* [Búsqueda Tabú](./L03-simulated-anealing/README.md)
+* [Búsqueda Tabú](./L04-tabu_search/README.md)
 * Algoritmos Genéticos
 * Optimización por Colonia de Hormigas
 

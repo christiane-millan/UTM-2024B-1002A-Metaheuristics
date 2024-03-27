@@ -112,4 +112,4 @@ El siguiente criterio de parada puede ser usado:
 ## Ejemplo básico de aplicación
 
 * [`SA - Función cúbica`](./code/sannealing_basic/sa_cubic_fuction.ipynb)
-* [`SA - N-Queens`]()
+* [`SA - TSP]()
